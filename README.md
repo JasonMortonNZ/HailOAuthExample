@@ -6,7 +6,7 @@
 
 1. Clone repository & move into directory
 ```bash
-git clone https://project-url Hail
+git clone git@github.com:JasonMortonNZ/HailOAuthExample.git Hail
 ```
 2. Change directory
 ```bash
